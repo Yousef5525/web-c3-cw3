@@ -1,0 +1,9 @@
+.text-color {
+  color: rgb(44, 212, 212);
+  background-color: rgb(34, 30, 30);
+}
+
+#color {
+  color: rgb(182, 108, 18);
+  font-weight: bolder;
+}
